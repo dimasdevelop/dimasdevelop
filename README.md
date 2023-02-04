@@ -1,8 +1,8 @@
 ## Un poco sobre mi.
 
-🌱 &nbsp; No puedo parar de estudiar y aprender cosas nuevas asi sea solo por pasatiempo como actualmente me pasa con Unity.\
-✍️ &nbsp; Destesto las reuniones de trabajo no productivas.\
-💬 &nbsp; Me gusta ayudar al equipo en las actividades.
+🌱 &nbsp; Me encanta aprender cosas nuevas día a día, por lo que estudiar es parte de mi rutina.\
+✍️ &nbsp; Me gusta tener reuniones productivas, así que siempre intento crear un ambiente productivo con mis compañeros.\
+💬 &nbsp; Me gusta ayudar a mi equipo en las dudas tecnicas que surjan durante las actividades.
 
 ---
 

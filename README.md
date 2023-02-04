@@ -2,7 +2,7 @@
 
 🌱 &nbsp; No puedo parar de estudiar y aprender cosas nuevas asi sea solo por pasatiempo como actualmente me pasa con Unity.\
 ✍️ &nbsp; Destesto las reuniones de trabajo no productivas.\
-💬 &nbsp; Me gusta ayudar al equipo en las actividades.\
+💬 &nbsp; Me gusta ayudar al equipo en las actividades.
 
 ---
 

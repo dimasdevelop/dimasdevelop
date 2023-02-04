@@ -8,7 +8,7 @@
 
 ```JS
     export class About extends Me {
-        public  bakendAptitudes() {
+        public  backendAptitudes() {
             return [
                 "NestJS",
                 "Docker",

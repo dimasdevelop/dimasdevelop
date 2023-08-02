@@ -16,6 +16,7 @@
                 "TypeScript",
                 "Python",
                 "Node",
+                "Go"
             ]
         }
 
